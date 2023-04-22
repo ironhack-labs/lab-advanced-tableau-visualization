@@ -11,3 +11,6 @@ For this lab, you will be using the output of the previous lab - the `unit-4-lab
 3. Create a boxplot relating **Total Claim Amount** and **Vehicle Size**.
 4. Create a Dashboard with these new charts.
 5. Create a story to summarize your analysis.
+
+
+LINK: https://public.tableau.com/shared/2Q95NTHKG?:display_count=n&:origin=viz_share_link
